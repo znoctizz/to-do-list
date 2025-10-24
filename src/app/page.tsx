@@ -23,11 +23,11 @@ export default function Home() {
         alt="Profile"
         width={120}
         height={120}
-        className="rounded-full mb-6 border-4 border-gray-500 shadow-lg "
+        className="rounded-full mb-6 border-4 border-gray-500 shadow-lg"
       />
 
       {/* HERO */}
-      <h1 className="text-4xl text-center font-bold mb-2">Hi, I'm Nuril Zain 👋</h1>
+      <h1 className="text-4xl font-bold mb-2">Hi, I'm Nuril Zain 👋</h1>
       <p className="text-gray-300 text-center max-w-md mb-12">
         Cybersecurity Enthusiast & Web Developer who loves building modern web experiences.
       </p>
